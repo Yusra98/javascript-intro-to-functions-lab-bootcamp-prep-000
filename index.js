@@ -21,12 +21,14 @@ function sayHiToGrandma(string) {
   if (lowercase.toLowerCase() === lowercase) {
    return "I can't hear you!"
   }
+  var upppercase = 'HELLO!'
+  else if ()
 }
 
 function {
-  var uppercase = 'HELLO!'
+ var uppercase = 'HELLO!'
   if (uppercase.toUpperCase() === uppercase) {
-    return "YES INDEED!"
+    ret urn "YES INDEED!"
   }
 }
 
