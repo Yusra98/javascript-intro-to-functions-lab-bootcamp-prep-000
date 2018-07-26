@@ -22,14 +22,10 @@ function sayHiToGrandma(string) {
    return "I can't hear you!"
   }
   var upppercase = 'HELLO!'
-  else if ()
-}
-
-function {
- var uppercase = 'HELLO!'
-  if (uppercase.toUpperCase() === uppercase) {
-    ret urn "YES INDEED!"
+  else if (uppercase.toUpperCase() === uppercase) {
+    return "YES INDEED!"
   }
 }
+
 
 
