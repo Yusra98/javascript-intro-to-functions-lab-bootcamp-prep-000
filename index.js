@@ -16,7 +16,3 @@ function logWhisper(string) {
   return string.toLowerCase()
 }
 
-const = spy 
-function logspyOn(string) {
-  console.log('')
-}
