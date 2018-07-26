@@ -19,6 +19,6 @@ function logWhisper(string) {
 function sayHiToGrandma(string) {
   var lowercase = 'hello!'
   if (lowercase.toLowerCase() === lowercase) {
-   return sayHiToGrandma()
+   return sring("I can/t hear you!")
   }
 }
