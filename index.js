@@ -24,5 +24,7 @@ function sayHiToGrandma(string) {
 }
 
 function sayHiToGrandma(string) {
-  var uppercase = 
+  var uppercase = "HELLO!"
+  if (uppercase.toUpperCase() === uppercase)
+  return "YES INDEED!"
 }
