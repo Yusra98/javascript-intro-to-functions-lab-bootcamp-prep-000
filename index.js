@@ -24,7 +24,7 @@ if (string.toLowerCase() === string) {
     return "YES INDEED!"
   }
   else {
-    return 
+    return "I love you, too"
   }
 }
 
