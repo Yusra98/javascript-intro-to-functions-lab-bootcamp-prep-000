@@ -15,3 +15,8 @@ function logWhisper(string) {
   console.log('HELLO')
   return string.toLowerCase()
 }
+
+const = spy 
+function logspyOn(string) {
+  console.log('')
+}
